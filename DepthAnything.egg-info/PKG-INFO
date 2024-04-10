@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: DepthAnything
+Version: 1.0.0
+Summary: A Python package for generating depth maps for images.
+Home-page: https://github.com/ysudhansh/Depth-Anything
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: gradio-imageslider
+Requires-Dist: gradio==4.14.0
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: opencv-python
+Requires-Dist: huggingface-hub

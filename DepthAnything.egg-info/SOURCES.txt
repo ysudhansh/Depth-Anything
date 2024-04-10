@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+DepthAnything.egg-info/PKG-INFO
+DepthAnything.egg-info/SOURCES.txt
+DepthAnything.egg-info/dependency_links.txt
+DepthAnything.egg-info/requires.txt
+DepthAnything.egg-info/top_level.txt
